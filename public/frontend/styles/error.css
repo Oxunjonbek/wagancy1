@@ -1,0 +1,66 @@
+.img-404{
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+.container-404{
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	top: 50vh;
+	transform: translate(-50%, -50%);
+}
+.container-404 .error-404{
+	font-weight: bold;
+	color: #191919;
+	font-size: 200px;
+}
+.container-404 .error{
+	position: absolute;
+	display: inline-block;
+	top: 250px;
+	right: 0;
+	font-size: 75px;
+
+}
+.container-404 p{
+	font-size: 60px;
+	transform: translateY(-100%);
+}
+@media only screen and (max-width: 768px)
+{
+	.img-404{
+	position: relative;
+	bottom: 0;
+	width: 65%;
+}
+.container-404{
+	top: 0;
+	right: 0;
+	transform: translate(0, 0);
+}
+}
+@media only screen and (max-width: 575px)
+{
+	.img-404{
+	display: none;
+}
+.container-404{
+	width: 100%;
+	left: 0;
+	top: 50vh;
+	transform: translate(0, -50%);
+}
+.container-404 .error-404{
+	font-size: 150px;
+}
+.container-404 .error{
+	top: 200px;
+	font-size: 50px;
+
+}
+.container-404 p{
+	font-size: 45px;
+	transform: translateY(-100%);
+}
+}

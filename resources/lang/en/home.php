@@ -1,0 +1,75 @@
+<?php 
+
+return [
+	'reklamnoy'=>'Advertising',
+	'agentstvo'=>'AGENCY',
+	'title'=>'WD company | advertising agency that leads to a result',
+	'menu1'=>'WE',
+	'menu2'=>'SERVICES',
+	'menu3'=>'Portfolio',
+	'menu4'=>'BLOG',
+	'menu5'=>'CONTACTS',
+	'uslugu1'=>'Site',
+	'uslugu2'=>'Logo',
+	'uslugu3'=>'Video',
+	'samoeluchshe'=>'The best advertising agency in Uzbekistan',
+	'content:h1'=>'The Internet is our passion, so we are the best in Internet marketing. At the same time, we are always open to new projects. We are pleased to make your business rise to a new stage of development. We provide services in the field of online advertising, web development (website, landing page, online store and web application), SEO, SMM (promotion of Instagram, Facebook and VK), branding (logo, marketing kit), contextual advertising ( google ads and Yandex direct) and copywriting. We work not only in Tashkent, but throughout Uzbekistan.',
+	'milestone_title_h5:1'=>'our work',
+	'milestone_title_h5:2'=>'our clients',
+	'milestone_title_h5:3'=>'our offices',
+	'section_title_h2:1'=>'work',
+	'item_filter_btn_h6:1'=>'All',
+	'bgmodelscenter_uz_h2:1'=>'still',
+	'section_title_h2:2'=>'Team',
+	'team_content d-flex flex-row align-items-start justify-content-between flex-wrap_h3:1'=>'Consider our team as your team. Our reputation is based on decades of successful partnerships and real results. In cooperation with you, we will develop an advertising strategy that will distinguish your brand among competitors.',
+	'team_item_title_label:1'=>'A',
+	'team_item_title_h4:1'=>'zam founder of Web Digital and the fearless leader in Internet marketing with a big heart. He created an advertising bureau that combines flexible marketing and management, and which works in four areas of Internet services - SEO, web development, SMM and branding.',
+	'team_item_title_label:2'=>'SH',
+	'team_item_title_h4:2'=>'ahram Our director, who helps us create and use all the advanced technologies for more effective advertising of your project. Before assuming the position of director, Shahram led our web analytics and is still involved in our web analytics service.',
+	'team_item_title_label:3'=>'O',
+	'team_item_title_h4:3'=>'bid  our web developer. He has been engaged in programming since 2011 and perfectly combines research, website development, constantly testing them for the benefit of our customers. And also Obid is a musician, he toured with the choir to the countries of Central Asia and loves hanging out with his friends.',
+	'team_item_title_label:4'=>'A',
+	'team_item_title_h4:4'=>'leksandr is one of our web programmers. If he is not involved in the project, he probably plays video games or with his cat, plans his next family vacation. Alexander loves music, Pokemon and clean code.',
+	'missiya'=>'Mission',
+	'instagram'=>'Instagram',
+	//contactfremfork
+	'napishite'=>'Write to us',
+
+
+	//footer
+	
+	'reklamniy_agentstva'=>'Advertising agency',
+	'polnogosikl'=>'full cycle',
+	'samarqand'=>'Samarkand',
+	'ulisa'=>'st. Mustakkilik 41',
+	'oreinterlenin'=>'The target: Leninsky, opposite the whalers',
+	'tashkent'=>'Tashkent',
+	'skoro'=>'SOON',
+	'nyuyork'=>'New York',
+	//contact
+	'skacatpr'=>'Download price list',
+	'webdigi'=>'Web Digital | Address and phone: Contact us in Uzbekistan',
+	'marka'=>'MARK',
+	'brif'=>'BRIF',
+	'dizain'=>'DESIGN',
+	'polucitebes'=>'Get a free consultation',
+	'uvasest'=>'Do you have questions or are you ready to start your project immediately?',
+	'togdapozv'=>'Then, call our office by phone',
+	'sam'=>'Samarkand',
+	'adres'=>'st. Mustakkilik 41, Samarkand, 140100',
+	'tash'=>'Tashkent',
+	'viponomaetecto'=>'You understand that a strong advertising presence is necessary for the success of your business, and you are ready to plunge into the world of online marketing. Let Wev Digital (WD) Experts Show You The Power Of Strategic Online Marketing!',
+	'nashakom'=>'Our team will be on your side from our first brainstorming session until the day we launch your beautiful new website. We will be with you when you want to change the design of your website, add new keywords to your search program, increase your bid in your display advertising and attract more attention on your social networks.',
+	//accordian
+	'rostagent'=>'Agency Growth',
+	'zaposledniyne'=>'Over the past few years, our advertising agency has gone from a basement in Samarkand to an international company. Our growth was a difficult, yet amazing journey, the results of which we would like to generously share with you.',
+	'profesionale'=>'Professional growth',
+	'mischitem'=>'We believe that to see the happiness of our work in your eyes, you need to have employees who are happy to work with you, for you. Therefore, we encourage our employees to work actively so that we all grow professionally, develop our skills and achieve our goals in the world of Internet business.',
+	'rosagen'=>'Agency Growth',
+	'zaposlednielet'=>'Over the past few years, our advertising agency has gone from a basement in Samarkand to an international company. Our growth was a difficult, yet amazing journey, the results of which we would like to generously share with you.',
+	'garet'=>'Warranty',
+	'minevozmemsuya'=>'We will not take up the promotion of your business if we are not one hundred percent sure that we can succeed and achieve the desired results. If we start working with you, then know that promoting your business in the Internet space is in safe hands. If within 99 days after using our SEO services or contextual advertising, you are unsatisfied with efficiency, which simply cannot be logical, then we will return the money that you spent on paying for our services.
+                       The activities of our company are based on customer satisfaction and long-term relationships. A money back guarantee is only a small part of the measures we take to ensure that our customers receive excellent service.',
+
+
+	];
